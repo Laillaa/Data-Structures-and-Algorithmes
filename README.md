@@ -9,3 +9,4 @@ I. University Projects:
   6. Reverse Polish Notation Algorithm
 
 II. Personal Projects
+  1. Username Validation (Coderbyte Challenge)
